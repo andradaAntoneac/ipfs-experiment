@@ -1,0 +1,4 @@
+go-ipfs/
+results/
+ipfs.tar.gz
+ipfs_daemon.log
